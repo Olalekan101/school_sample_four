@@ -1639,3 +1639,13 @@ footer p a:hover {
   }
 }
 
+@media (max-width: 768px) {
+  .main-nav {
+    display: none; /* Hide the navbar on mobile screens */
+  }
+}
+@media (max-width: 768px) {
+  .menu-link {
+    display: none; /* Hide the navbar on mobile screens */
+  }
+}
